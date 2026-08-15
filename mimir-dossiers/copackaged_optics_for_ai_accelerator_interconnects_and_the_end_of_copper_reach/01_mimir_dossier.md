@@ -1,0 +1,14 @@
+I'll research this topic thoroughly, focusing on the mandatory niche sources before supplementing with broader web search where needed.
+Good, the results are JSON strings. Let me parse properly and dig deeper into each source.
+I found several strong arXiv papers directly on point. Let me pull more detail from these, and search for additional patent and IEEE/OIF/IETF sources.
+Excellent, rich set of results. Let me dig deeper into the key arXiv papers, IEEE reliability papers, and patent landscape.
+It seems there's a rate limit. Let me wait and try one query at a time.
+There seems to be a persistent tool limit issue in this session. Let me wait longer before retrying.
+The search tool appears to have hit a session-wide usage limit. I have substantial results already from my first two rounds of searches. Let me work with what I have and try again after a longer pause, batching remaining critical queries together.
+Let me check if the earlier successful results objects still contain the fuller content I need — I can extract more from the `content` field of results I already retrieved, since those were full search snippets.
+This is a wealth of material. Now let me look at the remaining second batch (IEEE reliability papers, Broadcom/Nvidia patents, OIF standards) which I already retrieved fully.
+I now have excellent depth. Let me try a couple more targeted searches for patents (specifically Nvidia/Ayar Labs/Broadcom filed patents) and the "Mosaic" ACM SIGCOMM paper and Nvidia laser reliability, plus check if the search tool is unblocked now.
+The search tool limit persists across a long time. I have gathered a very substantial and high-quality research base already (arXiv papers, IEEE Xplore conference papers, USPTO patents, OIF standards documents, and vendor primary sources). Let me attempt one more time after a longer wait, and if it still fails, proceed to compile the dossier with what I have — which is already comprehensive.
+The search tool remains unavailable for this session. I have gathered extensive, high-quality material already covering all required source categories (arXiv, IEEE Xplore, USPTO, OIF standards, vendor technical blogs). I'll proceed to compile the comprehensive dossier from the verified material collected.
+I have a comprehensive source base spanning arXiv, IEEE Xplore, USPTO, OIF standards, and primary vendor technical sources. Now let me compile the full technical dossier.
+I have both patent numbers (US 12,189,198 and US 12,197,023) with matching titles and priority claims. This gives good patent landscape material. Now let me compile the complete dossier.
