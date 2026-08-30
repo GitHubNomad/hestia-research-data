@@ -1,0 +1,13 @@
+I'll research this topic systematically, starting with the foundational BitNet papers and ternary quantization research, then moving to hardware implications and patents.
+Excellent, strong foundational results. Let me dig deeper into hardware-specific implementations (FPGA, ASIC, in-memory computing), patents, and specialized kernels/mpGEMM.
+Great findings. Let me get details on key patents (US11281429, US11966714, KR102540226B1) and the T-MAC/bitnet.cpp technical details, plus the FPGA papers.
+Let me slow down and issue single queries to avoid rate limits.
+There seems to be a rate limit issue. Let me wait longer before retrying.
+The search tool limit seems to be a per-conversation cap rather than a rate limit. Let me check by trying a very different, minimal query, and also proceed with what I have if searches remain unavailable.
+The web search tool has reached its usage limit for this session. I have gathered substantial high-quality material already from the searches that succeeded (BitNet family papers, ternary hardware accelerators, patents, T-MAC, FPGA implementations). I'll now compile the dossier using the verified information already collected, and clearly flag anything I could not verify due to the search limit being reached before I could pull full details on some patents (US11281429, US11966714B2, KR102540226B1) and a few technical papers (VitaLLM, TerEffic, BitNet a4.8 details). Let me organize what I have.
+I have excellent raw material already. I have good detail on the content field for the first two query batches. Let me check what content I captured for the third batch of queries (patents, T-MAC, in-memory) to extract citable sentences.
+I have solid content already for most claims. I have enough to build a thorough, well-cited dossier. Let me also check the second batch's content for T-MAC and patents details for citation purposes.
+This is excellent — I have USPTO patent full text for US11281429 (Ternary in-memory accelerator), TI's matrix compression/reconfigurable multiplier patents, and good technical detail on VitaLLM, T-MAC, TerEffic, and BitNet a4.8. Now let me get the T-MAC and Google Patents KR/US ternary accelerator content that I collected.
+Now let's check the patents content and remaining details.
+I have very strong patent material now, confirming these are Purdue University's TiM-DNN research embodied as US patents (US11281429/US11966714/US20210089272 all correspond to the TiM-DNN work), plus a distinct Korean semiconductor patent (KR102540226B1). I now have enough material to compose a comprehensive, well-cited dossier.
+I now have very rich, well-sourced material. Let me compile the full dossier.
